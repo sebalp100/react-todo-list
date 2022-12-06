@@ -17,7 +17,7 @@ const TodoItem = (todos) => {
   };
 
   useEffect(() => () => {
-    console.log('Cleaning up...');
+
   }, []);
 
   const completedStyle = {
